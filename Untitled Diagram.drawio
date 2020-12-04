@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T11:28:09.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="40iIquqcOUV7UZ_MEojt" version="13.10.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-04T14:34:50.113Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="OpV294enwvveYJFWLCCH" version="13.10.0" type="github" pages="5">
   <diagram name="V21.01" id="CAiqpney7QYIne7BvLJB">
     <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -706,8 +706,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6BTf9SiUuMUW-aGVnPdd-5" value="releases" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="wfoOYO85CsdYQDh3Xqgv-1">
-          <mxGeometry x="1210" y="640" width="90" height="90" as="geometry" />
+        <mxCell id="6BTf9SiUuMUW-aGVnPdd-5" value="releases&lt;br&gt;On ne produit de la release que sur la branche version&lt;br&gt;Sur les autres branches, on tourne en snapshot/RC" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;" vertex="1" parent="wfoOYO85CsdYQDh3Xqgv-1">
+          <mxGeometry x="1190" y="810" width="130" height="140" as="geometry" />
         </mxCell>
         <mxCell id="6BTf9SiUuMUW-aGVnPdd-6" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="wfoOYO85CsdYQDh3Xqgv-1">
           <mxGeometry relative="1" as="geometry">
