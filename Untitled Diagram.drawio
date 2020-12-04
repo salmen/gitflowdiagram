@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T11:25:58.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="bRNUtrgxoPxFwG3yIfhP" version="13.10.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2020-12-04T11:28:09.674Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="40iIquqcOUV7UZ_MEojt" version="13.10.0" type="github" pages="5">
   <diagram name="V21.01" id="CAiqpney7QYIne7BvLJB">
     <mxGraphModel dx="1102" dy="533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1770,8 +1770,8 @@
             <mxPoint x="1048.61" y="1168.07" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="liiJu1lhg9wPqwZzjZkM-0" value="A ce stade, je ne sais pas trop si on fait partir les releases des releases inférieures (comme sur le train) ou de develop." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fillColor=#FF3333;" vertex="1" parent="rzQg_52oa3MBnxTEjeFT-1">
-          <mxGeometry x="571.51" y="1200" width="100" height="60" as="geometry" />
+        <mxCell id="liiJu1lhg9wPqwZzjZkM-1" value="&lt;span&gt;A ce stade, je ne sais pas trop si on fait partir les releases des releases inférieures (comme sur le train) ou de develop.&lt;/span&gt;&lt;br&gt;&lt;span&gt;On n&quot;est pas vraiment dans un train, puisque les multireleases ne sont pas séquentielles...&lt;/span&gt;&lt;br&gt;&lt;span&gt;Je partirai bien de develop !?&lt;/span&gt;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#FF3333;" vertex="1" parent="rzQg_52oa3MBnxTEjeFT-1">
+          <mxGeometry x="270" y="1210" width="430" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
